@@ -13,12 +13,13 @@
     font-weight: 400;
     padding: 4px 0;
     transition: color .175s ease-in;
+    color:#3E3EA8;
 }
 
 .c-link-cta,
 .c-link-cta:visited,
 .c-link-cta:active {
-    color: #7373F5;
+    color: #3E3EA8;
 }
 
 .c-link-cta::after {
